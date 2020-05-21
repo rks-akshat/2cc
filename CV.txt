@@ -1,0 +1,55 @@
+AKSHAT PRAKASH
+
+ABOUT ME
+I'm a student at Vellore Institute of Technology, studying Electronics and Communications Engineering (ECE).
+
+Interested in science and techonlogy. Avid Reader.
+I enjoy volunteering weekly at the local Boys and Girls club where I teach youth how to write code. I am an animal lover and enjoy frequent horseback trips with my family. I also appreciate a good book or tennis match.
+
+PROJECTS
+PROJECTS I'VE WORKED ON
+
+Blind assistance cap using arduino
+Use the power of Arduino and simple sensors to build a Blind man’s stick that could perform more than just a stick for visually impaired persons.This Arduino Smart Blind Stick Project requires two separate circuits. One is the main circuit which will be mounted on the blind man’s stick. The other is a small remote RF transmitter circuit which will be used to locate the main circuit.
+
+Self-Steering Robot using arduino
+The Arduino Self-Driven Car is a project comprised by a car chassis, two motorized wheels, one 360° wheel (non-motorized) and a few sensors. It is powered by a 9-volt battery using an Arduino Nano connected to a mini breadboard to control the motors and sensors. When it is turned on, it starts driving straight forward
+
+Sound editing software using MATLAB
+AudioEditor creates a GUI used for editing audio data. It supports reading from a WAVE audio file, writing to a WAVE audio file, importing from a MATLAB® variable, exporting to a MATLAB variable and recording from microphone. There are editing features like cut, copy, paste with undo and redo support for them.
+
+SKILLS
+SKILLS I'VE AQUIRED
+
+MATLAB
+In-depth knowledge of GUI design in Matlab and Usability Architecture. Strong technical analysis and troubleshooting capabilities. Excellent ability to perform programming, debugging, data analysis and system analysis. Excellent written and oral communication skills.
+
+C/C++ Programming
+Knowledge of advanced level programming in C/C++ including thread synchronization multithreading, multi processing, concurrency and TCP/IP Socket Programming.Reduced support costs 22 percent by creating hundreds of enhancements for existing apps running on Windows and UNIX platforms. Tactics included troubleshooting, root cause analysis, bug fixing and decreasing the codebase 25 percent.
+
+Web-Development
+Strong development skills with ability to understand technical design and translate the same into workable solution Strong working knowledge of JavaScript, HTML and CSS Good working knowledge of writing Web based applications Strong working knowledge on multiple RIA frameworks and JavaScript libraries (Angular JS, Bootstrap, GWT, JQuery, JQuery UI, Node.js, etc.)
+
+EDUCATION
+BRIEF SUMMARY OF MY SCHOOLING
+
+School
+Completed my school from DAV Public School.
+Marks in 10th grade : 10 CPGA
+Marks in 12th grade : 95%
+College
+Currently pursuing (4th semester) ECE at Vellore Institue of Technology, Vellore.
+
+Miscellaneous
+Have completed various technology related online courses.
+GET IN TOUCH
+CONTACT DETAILS
+
+Mail
+Mail me at : akshat.2018@vitstudent.ac.in
+
+Instagram
+Follow me on : instagram.com/akshat
+
+Phone number
+Call at: 9711861722
